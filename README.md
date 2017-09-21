@@ -7,7 +7,6 @@ Address of Value: (&n) 0x7ffed56c3dec
 Value of pointer: (p) 0x7ffed56c3dec
 Address of pointer: (&p) 0x7ffed56c3df0
 V-Value of pointer: (*p) 10
-V-Value of pointer: (*p) 4500
 
 
 Name of product is  : Laptop
